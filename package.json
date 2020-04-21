@@ -1,0 +1,8 @@
+{
+  "name": "js_sandbox",
+  "version": "1.0.0",
+  "description": "javascript sandbox",
+  "main": "index.js",
+  "author": "bayeswang <827130441@qq.com>",
+  "license": "MIT"
+}
