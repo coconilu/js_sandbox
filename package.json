@@ -4,5 +4,15 @@
   "description": "javascript sandbox",
   "main": "index.js",
   "author": "bayeswang <827130441@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-proposal-private-methods": "^7.8.3",
+    "@babel/preset-env": "^7.9.5"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7"
+  }
 }
